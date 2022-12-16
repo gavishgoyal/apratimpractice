@@ -1,0 +1,15 @@
+/* Ensure the size of the image fit the container perfectly */
+img {
+    display: block;
+
+    width: 500px;
+
+    }
+.container{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+#output{
+    margin: 5px;
+}
